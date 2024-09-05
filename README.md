@@ -1,7 +1,6 @@
 # Opa👍🏻👍🏻: Caio Marques Pascuali!!!
 
-## 🧑🏻⚡ Beleza!! Meu nome é Caio!!
-
+## 🧑🏻⚡ Beleza!!
 ## 🖥💻Sou aluno do curso de informática do CEDUP!!!😀👍
 
   
