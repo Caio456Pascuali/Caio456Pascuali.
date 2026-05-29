@@ -36,6 +36,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Caio456Pascuali/Caio456Pascuali/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Hey, Whats up!!👋 I'm Caio<br><br>🎓 Student at College Cedup – Criciúma, SC, Brazil<br>🎨 Passionate about design and drawing<br>🖌️ Currently learning Photoshop and digital illustration<br>📌 Goal: Combine creativity and technology to create amazing projects</p>
 
 ###
