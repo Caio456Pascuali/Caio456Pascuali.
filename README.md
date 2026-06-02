@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">E aí, tudo bem?! 👋 Sou o Caio<br><br>🎓 Estudante da Escola Cedup – Criciúma, SC, Brasil<br>🎨 curto desenhar<br>🖌️ Atualmente aprendendo Photoshop e ilustração digital<br>📌 Objetivo: Combinar criatividade e tecnologia para criar projetos incríveis</h3>
+<h3 align="center">E aí, tudo bem?! 👋 Sou o Caio<br><br> Estudante da Escola Cedup – Criciúma, SC, Brasil<br> Curto desenhar<br> Atualmente estou aprendendo Photoshop e ilustração digital<br> Objetivo: Combinar criatividade e tecnologia para criar projetos incríveis</h3>
 
 ###
 
